@@ -1,0 +1,14 @@
+[
+  {
+    "text" : "First Quote",
+    "author" : "Author 1"
+  },
+  {
+    "text" : "Second Quote",
+    "author": "Author 2"
+  },
+  {
+    "text" : "Third Quote",
+    "author": "Author 3"
+  }
+]
